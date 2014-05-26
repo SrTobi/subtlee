@@ -1,0 +1,14 @@
+*.user
+*.suo
+*.[Cc]ache
+*.bak
+*.ncb
+*.log 
+*.DS_Store
+[Tt]humbs.db 
+_ReSharper.*
+*.resharper
+
+
+Subtlee/obj
+SUbtlee/bin
